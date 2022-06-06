@@ -92,3 +92,9 @@ tsms-dre-platform-dbankcloud.com-dre.appacc-region.dbankedge.net
 upfile5.hicloud.com
 upfile7.hicloud.com
 videocontent-dra.himovie.hicloud.com
+query.hicloud.com
+ccpce-de.consumer.huawei.com
+terms7.hicloud.com
+store-dre.hispace.dbankcloud.com
+grs.dbankcloud.com
+connectivitycheck.platform.hicloud.com
