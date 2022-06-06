@@ -96,5 +96,4 @@ query.hicloud.com
 ccpce-de.consumer.huawei.com
 terms7.hicloud.com
 store-dre.hispace.dbankcloud.com
-grs.dbankcloud.com
 connectivitycheck.platform.hicloud.com
