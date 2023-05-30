@@ -43,9 +43,7 @@ static.focus.de
 youtube.com
 facebook.com
 videolan.org
-fs.microsoft.com	
-irc-ws.chat.twitch.tv
-usher.ttvnw.net
+fs.microsoft.com
 airlivedrive.com	
 bibo.api.swiftkey.com
 shealth-analytics-api.samsunghealth.com
