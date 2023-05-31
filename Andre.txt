@@ -39,8 +39,7 @@ telekom.de
 static.whatsapp.net
 graph.facebook.com
 web.facebook.com
-static.focus.de	
-youtube.com
+static.focus.de
 facebook.com
 videolan.org
 fs.microsoft.com
